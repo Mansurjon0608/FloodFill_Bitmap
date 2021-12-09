@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TZFloodFill</string>
+    <string name="generate">Generate</string>
+    <string name="speed">Speed</string>
+
+    <string-array name="algorithms">
+        <item>4 neighbours (Queue)</item>
+        <item>4 neighbours (Stack)</item>
+        <item>Scanline</item>
+    </string-array>
+
+
+
+</resources>
